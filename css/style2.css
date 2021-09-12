@@ -1,0 +1,182 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+ /* -----------media query for small device------- */
+
+ @media only screen and (max-width: 360px){
+  #pp{
+  padding: 30px;
+ }
+ .icon{
+  right: 42px;
+}
+.icon img{
+   margin-left: 2px;
+ }
+ .logo img{
+  width: 90px;
+  margin: 7px 0 0 47px;
+ }
+ .voice img{
+  top: 16px;
+ right: 144px; 
+}
+.search img{
+  right: 48px;
+}
+
+.sug-1 img{
+  width: 52px;
+  margin-top: 2px;
+ }
+
+ .sug-3 img{
+  width: 42px;
+  margin-top: 2px;
+ }
+ .more-2 img{
+  margin: 2px 0 0 -38px;
+}
+.col .play-more{
+   top: 75px;
+}
+.iner-text-2-icon .text-icon-5{
+  width: 17px;
+  position: absolute;
+  top: 5px;
+  right: 12px;
+  cursor: pointer;
+  
+}
+.iner-text-2-icon .text-icon-1{
+   width: 18px;
+  position: absolute;
+  top: -3px;
+  left: 16%;
+  cursor: pointer;
+} 
+.iner-text-2-icon .text-icon-2{
+   width: 18px;
+  position: absolute;
+  top: 0;
+  left: 34%;
+  cursor: pointer;
+} 
+.iner-text-2-icon .text-icon-3{
+   width: 18px;
+  position: absolute;
+  top: -2px;
+  right: 46%;
+  cursor: pointer;
+} 
+.iner-text-2-icon .text-icon-4{
+   width: 18px;
+  position: absolute;
+  top: 3px;
+  right: 23%;
+  cursor: pointer;
+}
+.icon-txt{
+   position: absolute;
+   right: 68%;
+   top: 0px;
+   color: #7E7E7E;
+   font-size: 12px;
+   font-weight: 500;
+   cursor: pointer;
+}
+.icon-txt:nth-child(4){
+  right: 54%;
+}
+.icon-txt:nth-child(6){
+  right: 33%;
+}
+.icon-txt:nth-child(8){
+  right: 13%;
+}
+
+.subs-inner img{
+  width: 30px;
+   margin-right: 5px;
+}  
+  
+.subs-inner-text h4{
+  font-size: 14px;
+ }
+
+.subs-inner-text P{
+  font-size: 11px;
+}
+.subs-inner-2{
+  top: 27px;
+}
+.subs-inner-2 h4{
+   width: 95px;
+   height: 28px;
+   font-size: 12px;
+   padding: 8px 0 0 13px;
+}
+ .links{
+  margin-left: 35px;
+}
+     
+.play-more{
+  width: 40px;
+   left: 15%;
+  top: 30px;
+ }
+  
+.col-inner-1 h4{
+  width: 155px;
+  font-size: 13px;
+    margin: -1px 0 2px 14px;
+}
+.col-inner-1 p{
+  font-size: 12px;
+ }
+.col-1 .circle{
+  width: 3px;
+  height: 3px;
+   bottom: 13px;
+}
+.subs-inner input{
+  width: 96%;
+}
+.cmt{
+  width: 230px;
+  font-size: 13px;
+  margin: -10px 0 12px 40px;
+}
+ .mm img, .nn img{
+  width: 30px;
+  margin-top: 4px;
+}
+.cmnt-icon-1{
+ left: 42px;
+}
+.cmnt-icon-1:nth-child(3){
+  left: 100px;
+}
+.cmnt-icon-txt{
+  left: 64px; 
+}
+  .comnt-icon h4{
+    margin-left: 150px;
+  }
+
+.neji{
+  position: absolute;
+  top: 1600px;
+}
+
+#cc{
+   height: 2450px;
+ }
+
+
+ } 
